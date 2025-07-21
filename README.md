@@ -66,7 +66,7 @@ Refer to the diagram above for a high-level overview.
 
 1. **Install Home Assistant OS** on Raspberry Pi (or any supported device).
 2. **Enable AppDaemon Add-on** in Home Assistant.
-3. Clone this repository into the Home Assistant `appdaemon/apps` directory:
+3. Clone this repository into the Home Assistant `addon_configs/appdaemon/apps` directory:
    ```bash
    git clone https://github.com/<your-username>/fridgemate.git /config/appdaemon/apps/fridgemate
    ```
